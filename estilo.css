@@ -1,0 +1,15 @@
+.redondo{
+    display: block;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    height: 200px;
+    width: 200px;
+    border-radius: 150%;
+}
+.redondo img{
+    display: inline-block;
+    width: 70%;
+    object-fit: contain;
+}
